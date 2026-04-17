@@ -1,3 +1,4 @@
+# Program to find the sum of all numbers in a list using loop
 list = [20,30,60,45,63]
 sum = 0
 for i in list:
